@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FCARform
 build_property.RootNamespace = FCARform
-build_property.ProjectDir = c:\Users\chloe\Desktop\CIDM 4390\TeamBlueFinal\TeamBlueFinal\FCARform\
+build_property.ProjectDir = C:\Users\chloe\Desktop\CIDM 4390\TeamBlueFinal\TeamBlueFinal\FCARform\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\chloe\Desktop\CIDM 4390\TeamBlueFinal\TeamBlueFinal\FCARform
+build_property.MSBuildProjectDirectory = C:\Users\chloe\Desktop\CIDM 4390\TeamBlueFinal\TeamBlueFinal\FCARform
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/CourseLearningObjectives/Create.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/CourseLearningObjectives/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlTGVhcm5pbmdPYmplY3RpdmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/CourseLearningObjectives/Index.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/CourseLearningObjectives/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlTGVhcm5pbmdPYmplY3RpdmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Error.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Index.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Privacy.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/_ViewImports.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/_ViewStart.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Shared/_Layout.cshtml]
+[C:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jud7btq8s0
