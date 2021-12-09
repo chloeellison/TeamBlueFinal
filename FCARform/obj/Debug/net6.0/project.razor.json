@@ -16298,6 +16298,11 @@
   "RootNamespace": "FCARform",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\CourseLearningObjectives\\Create.cshtml",
+      "TargetPath": "Pages\\CourseLearningObjectives\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
@@ -16370,6 +16375,11 @@
     {
       "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\CourseLearningObjectives\\Index.cshtml",
+      "TargetPath": "Pages\\CourseLearningObjectives\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

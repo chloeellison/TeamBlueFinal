@@ -47,6 +47,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/CourseLearningObjectives/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlTGVhcm5pbmdPYmplY3RpdmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/CourseLearningObjectives/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlTGVhcm5pbmdPYmplY3RpdmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/chloe/Desktop/CIDM 4390/TeamBlueFinal/TeamBlueFinal/FCARform/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
