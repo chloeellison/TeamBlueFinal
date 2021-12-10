@@ -8,6 +8,17 @@ a.navbar-brand[b-jud7btq8s0] {
   word-break: break-all;
 }
 
+body[b-jud7btq8s0]{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1[b-jud7btq8s0],h2[b-jud7btq8s0],h3[b-jud7btq8s0]{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p[b-jud7btq8s0] {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 a[b-jud7btq8s0] {
   color: #0077cc;
 }

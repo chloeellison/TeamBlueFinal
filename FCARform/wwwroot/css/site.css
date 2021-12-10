@@ -58,6 +58,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .footer {
   background-color: #450012;

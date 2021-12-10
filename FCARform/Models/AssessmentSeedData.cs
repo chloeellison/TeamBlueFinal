@@ -15,16 +15,16 @@ namespace FCARform.Models
             serviceProvider.GetRequiredService<DbContextOptions<ApplicationDbContext>>()))
 
         {
-                //Look for any Assessments.
+                /* //Look for any Administrators.
                 if (context.Administrators.Any())
                 {
                     return; //DB has been seeded
                 }
                 
-                context.Administrators.AddRange(
+                /* context.Administrators.AddRange(
                     new Administrator {Title = "Dr.", FirstName = "Jeffry", LastName = "Babb", Email = "babb@wtamu.edu"}
 
-                );
+                ); */
 
                 if (context.CLOs.Any())
                 {

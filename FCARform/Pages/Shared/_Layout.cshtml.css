@@ -7,6 +7,17 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h2,h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 a {
   color: #0077cc;
 }
