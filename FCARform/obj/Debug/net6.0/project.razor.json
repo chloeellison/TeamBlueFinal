@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\FCARform.csproj",
+  "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\FCARform.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,93 +16298,93 @@
   "RootNamespace": "FCARform",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\CourseLearningObjectives\\Create.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\CourseLearningObjectives\\Create.cshtml",
       "TargetPath": "Pages\\CourseLearningObjectives\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\CourseLearningObjectives\\Index.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\CourseLearningObjectives\\Index.cshtml",
       "TargetPath": "Pages\\CourseLearningObjectives\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

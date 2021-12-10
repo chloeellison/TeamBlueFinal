@@ -9,7 +9,7 @@ namespace FCARform.Models
 {
     public static class AssessmentSeedData
     {
-        public static void Initialize(IServiceProvider serviceProvider)
+        public static void Initalize(IServiceProvider serviceProvider)
         {
             using (var context = new ApplicationDbContext(
             serviceProvider.GetRequiredService<DbContextOptions<ApplicationDbContext>>()))

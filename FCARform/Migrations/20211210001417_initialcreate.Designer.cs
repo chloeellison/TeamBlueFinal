@@ -9,11 +9,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace FCARform.Data.Migrations
+namespace FCARform.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20211209024441_CreateIdentityScheme")]
-    partial class CreateIdentityScheme
+    [Migration("20211210001417_initialcreate")]
+    partial class initialcreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

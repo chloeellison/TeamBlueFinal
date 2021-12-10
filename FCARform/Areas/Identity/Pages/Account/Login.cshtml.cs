@@ -85,7 +85,7 @@ namespace FCARform.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return RedirectToPage("/CourseLearningObjectives/Create");
+                    return RedirectToPage("/CourseLearningObjectives/Index");
                 }
                 else
                 {

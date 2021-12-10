@@ -9942,11 +9942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\FCARform.csproj",
+      "projectUniqueName": "C:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\FCARform.csproj",
       "projectName": "FCARform",
-      "projectPath": "C:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\FCARform.csproj",
+      "projectPath": "C:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\FCARform.csproj",
       "packagesPath": "C:\\Users\\chloe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal\\FCARform\\obj\\",
+      "outputPath": "C:\\Users\\chloe\\Desktop\\CIDM 4390\\TeamBlueFinal\\TeamBlueFinal-1\\FCARform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chloe\\AppData\\Roaming\\NuGet\\NuGet.Config",
